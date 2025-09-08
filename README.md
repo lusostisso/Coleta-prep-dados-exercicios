@@ -24,6 +24,10 @@ Para a coleta de 1000 pessoas usamos a versao em paralelo, mas para entendimento
 
 A pasta resultado contendo as 1000 pessoas se encontra no arquivo .zip, chamado LINKS_PESSOAS.zip.
 
+Tempo de execucao : 8 minutos
+<img width="1290" height="529" alt="image" src="https://github.com/user-attachments/assets/ef0c4080-b15d-402f-bf6b-229a71ebe480" />
+
+
 ### Sobre o exercicio 2:
 
 A pasta de arquivos LINKS_PESSOAS nao ira ser compartilhada somente com o compartilhamento do notebook atraves do Colab. 
